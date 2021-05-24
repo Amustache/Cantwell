@@ -1,0 +1,4 @@
+matplotlib
+gtts
+pydub
+PIL
