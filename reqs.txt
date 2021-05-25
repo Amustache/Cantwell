@@ -1,4 +1,4 @@
 matplotlib
 gtts
 pydub
-PIL
+Pillow
