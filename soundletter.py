@@ -16,7 +16,8 @@ def process(content, filename='letter.pdf', verbatim=False):
             continue
         if not content['cut']:
             line += add_cut_text_to_image(content['text'], a4im, off=(content['offset'], MARGIN * line), size=content['limit'])
-        add_text_to_image(content['text'], a4im, off=(content['offset'], MARGIN * line), size=content['limit'])
+        else:
+            add_text_to_image(content['text'], a4im, off=(content['offset'], MARGIN * line), size=content['limit'])
         line += 1
 
     a4im.save(filename, 'PDF', quality=100)
