@@ -4,7 +4,7 @@ from gtts import gTTS
 from pydub import AudioSegment
 from PIL import Image
 import os
-from consts import *
+from .consts import *
 
 
 # From https://gist.github.com/kylemcdonald/bedcc053db0e7843ef95c531957cb90f

@@ -1,4 +1,4 @@
-matplotlib
-gtts
-pydub
-PIL
+matplotlib<3.5
+gtts<2.3
+pydub<0.26
+PIL<8.3

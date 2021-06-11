@@ -1,7 +1,7 @@
 import argparse
 from PIL import Image
 import json
-from helpers import *
+from .helpers import *
 
 
 def process(content, filename='letter.pdf', verbatim=False):
