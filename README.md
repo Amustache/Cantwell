@@ -26,6 +26,7 @@ You can get the previous example by running `soundletter.py -e`.
 - `git clone git@github.com:Amustache/Cantwell.git`
 - `pip install -Ur ./reqs.txt`
 - You may encounter some librairies issues, just install what is needed.
+    - e.g., `sudo apt install ffmpeg -y`
     - Feel free to open an issue so I can document what to install!
   
 Important! This project is using [gTTS](https://gtts.readthedocs.io/en/latest/), "Google Text-to-Speech". As the name hints, some data are sent to Google, so... Data is exchanged with Google. Use at your discretion.
