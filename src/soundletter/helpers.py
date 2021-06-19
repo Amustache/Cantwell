@@ -38,6 +38,7 @@ def create_and_paste_image(samples, dest, off=(0, 0)):
     plt.plot(samples, color=INK_COLOR)
     plt.axis('off')
     plt.savefig(filename, dpi=DPI, bbox_inches='tight')
+    plt.close('all')
     img = Image.open(filename)
     dest.paste(img, off)
     img.close()
