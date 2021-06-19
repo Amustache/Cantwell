@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="soundletter",
-    version="0.1",
+    version="0.3",
     author="Stache",
     author_email="stache@stache.cat",
     description="Visual sound waves letters generator",
