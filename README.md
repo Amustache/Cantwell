@@ -85,6 +85,7 @@ If you wish to use a custom file, here is the format:
     - Put `1` to savagely butcher your signal, `0` to still savagely butcher it but without throwing the rest away.
 
 ## More infos!
+### Context
 For a bit of context, the original picture has been shared on [Telegram](https://t.me/paspublique/12345), and a discussion emerged in [another channel](https://t.me/ChaoticEvilMobster/2799).
 
 After I wanted to recreate the thing with a little bit of code, user [@Moose0x5a](https://t.me/Moose0x5a) did some research:
@@ -114,3 +115,8 @@ After sending a message to the artist, here's her reply!
 > You've made my day, thankyou.
 > 
 > Jen
+
+### Result
+![result](https://stache.cat/wp-content/uploads/2022/01/image-1-973x730.png)
+
+You can see the resulting artwork here: <https://stache.cat/2021/12/24/sound-letters-wall/>
