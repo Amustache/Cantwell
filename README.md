@@ -116,7 +116,9 @@ After sending a message to the artist, here's her reply!
 > 
 > Jen
 
-### Result
-![result](https://stache.cat/wp-content/uploads/2022/01/image-1-973x730.png)
+The artist: <https://www.flickr.com/photos/jencantwell/>
 
-You can see the resulting artwork here: <https://stache.cat/2021/12/24/sound-letters-wall/>
+### Result
+![result](https://blog.stache.cat/wp-content/uploads/2022/01/image-1-973x730.png)
+
+You can see the resulting artwork here: <https://blog.stache.cat/2021/12/24/sound-letters-wall/>
